@@ -1,2 +1,2 @@
-# Python-Small-Projects-
+# Python-Small-Projects
 Small Python Programs
